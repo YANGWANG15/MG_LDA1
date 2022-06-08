@@ -1,0 +1,664 @@
+
+================ Global 1 ================
+[u'button', u'700w', u'700p', u'pictures', u'every', u'icons', u'way', u'screen', u'custom', u'customer', u'deal', 
+u'annoyance', u'almost', u'treo', u'time', u'going', u'see', u'except', u'bump', u'buttons']
+
+================ Global 2 ================ Subtopic - 
+[u'screen', u'plastic', u'cover', u'like', u'easy', u'buttons', u'keyboard', u'little', u'first', 
+u'phone', u'case', u'side', u'skin', u'press', u'protector', u'design', u'really', u'dust', u'function', u'protectors']
+
+================ Global 3 ================
+[u'ear', u'sound', u'hear', u'earbuds', u'quality', u'fit', u'size', u'noise', u'use', u'small', 
+u'sometimes', u'yes', u'quite', u'different', u'end', u'fits', u'tried', u'gels', u'sizes', u'say']
+
+================ Global 4 ================ 
+[u'phone', u'samsung', u'headset', u'see', u'even', u'motorola', u'hear', u'speaker', u'would', 
+u'car', u'talking', u'i560', u'display', u'volume', u'people', u'bluetooth', u'blue', u'holster', u'audio', u'ear']
+
+================ Global 5 ================ Headset
+[u'stereo', u'phone', u'headphones', u'sound', u'jack', u'plug', u'adapter', u'stylus', u'use', 
+u'cord', u'replacement', u'better', u'makes', u'fit', u'headsets', u'grade', u'headphone', u'easy', u'work', u'quality']
+
+================ Global 6 ================ Interface with PC
+[u'cable', u'phone', u'software', u'usb', u'computer', u'driver', u'work', u'drivers', u'product', 
+u'works', u'would', u'worked', u'also', u'data', u'sync', u'nokia', u'fine', u'transfer', u'came', u'download']
+
+================ Global 7 ================ 
+[u'palm', u'treo', u'650', u'680', u'number', u'use', u'bought', u'decided', u'think', u'today', 
+u'version', u'time', u'market', u'tmobile', u'run', u'say', u'years', u'compatibility', u'finally', u'smartphone']
+
+================ Global 8 ================ 
+[u'service', u'nextel', u'phones', u'phone', u'customer', u'new', u'sprint', u'tracfone', u'motorola', 
+u'nothing', u'could', u'pay', u'years', u'would', u'old', u'card', u'considering', u'number', u'experience', u'network']
+
+================ Global 9 ================ Battery/Charger
+[u'battery', u'phone', u'time', u'charge', u'life', u'new', u'every', u'charger', u'batteries', 
+u'never', u'original', u'use', u'much', u'thing', u'would', u'bought', u'say', u'first', u'day', u'like']
+
+================ Global 10 ================ Headset
+[u'headset', u'problem', u'volume', u'use', u'phone', u'problems', u'design', u'ringtone', u'ear', 
+u'constantly', u'couple', u'soon', u'uses', u'recommend', u'side', u'rating', u'unit', u'moto', u'less', u'another']
+
+================ Global 11 ================ 
+[u'ear', u'nokia', u'like', u'compatible', u'free', u'call', u'works', u'phone', u'see', u'say', 
+u'good', u'bit', u'send', u'friend', u'thank', u'tracfone', u'used', u'little', u'different', u'right']
+
+================ Global 12 ================ memory card / music player 
+[u'card', u'player', u'music', u'mp3', u'phone', u'memory', u'media', u'use', u'windows', u'play', 
+u'songs', u'microsd', u'radio', u'display', u'bluetooth', u'however', u'always', u'change', u'smartphone', u'slot']
+
+================ Global 13 ================ car charger / packaging & shipping
+[u'case', u'fit', u'charger', u'work', u'time', u'car', u'shipped', u'package', u'item', u'items', 
+u'ordered', u'plastic', u'tried', u'even', u'box', u'sent', u'first', u'bought', u'find', u'came']
+
+================ Global 14 ================ 
+[u'phone', u'pretty', u'ringtones', u'cingular', u'support', u'set', u'nokia', u'screen', u'year', 
+u'price', u'upgrade', u'interface', u'card', u'works', u'virgin', u'default', u'user', u'users', u'technology', u'buttons']
+
+================ Global 15 ================
+[u'ear', u'piece', u'clip', u'fone', u'good', u'buy', u'belt', u'need', u'logitech', u'product', u'jabra', 
+u'unit', u'fit', u'headset', u'holster', u'things', u'right', u'problem', u'sizes', u'please']
+
+================ Global 16 ================
+[u'case', u'things', u'pearl', u'like', u'take', u'phone', u'really', u'much', u'pretty', u'thing', u'perfect', u'treo', 
+u'awesome', u'care', u'swivel', u'slightly', u'also', u'better', u'big', u'however']
+
+================ Global 17 ================ camera & pictures
+[u'phone', u'use', u'good', u'like', u'camera', u'features', u'screen', u'also', u'easy', u'still', u'need', u'great', 
+u'make', u'many', u'best', u'phones', u'pictures', u'really', u'cell', u'far']
+
+================ Global 18 ================ 
+[u'phone', u'would', u'back', u'day', u'work', u'new', u'call', u'minutes', u'days', u'cingular', u'called', 
+u'sim', u'service', u'could', u'amazon', u'card', u'charger', u'said', u'calls', u'working']
+
+================ Global 19 ================
+[u'device', u'windows', u'email', u'blackberry', u'mobile', u'microsoft', u'even', u'pda', u'user', u'software', 
+u'bluetooth', u'way', u'outlook', u'keyboard', u'wifi', u'volume', u'data', u'key', u'work', u'8525']
+
+================ Global 20 ================
+[u'product', u'time', u'nice', u'use', u'would', u'return', u'received', u'charge', u'skin', u'feature', 
+u'could', u'item', u'solid', u'however', u'amazoncom', u'thick', u'battery', u'samsung', u'end', u'description']
+
+================ Global Topic 1 ==========================
+button: 0.023786
+700w: 0.021722
+700p: 0.014499
+pictures: 0.014499
+every: 0.012435
+icons: 0.011403
+way: 0.010371
+almost: 0.009339
+annoyance: 0.009339
+screen: 0.009339
+custom: 0.009339
+deal: 0.009339
+customer: 0.009339
+bump: 0.008307
+thought: 0.008307
+complaint: 0.008307
+compatible: 0.008307
+treo: 0.008307
+see: 0.008307
+slight: 0.008307
+================ Global Topic 2 ==========================
+screen: 0.048354
+plastic: 0.016140
+like: 0.015469
+cover: 0.015469
+easy: 0.014127
+buttons: 0.010100
+keyboard: 0.010100
+little: 0.009429
+first: 0.008758
+phone: 0.008758
+case: 0.008758
+side: 0.008087
+skin: 0.008087
+press: 0.008087
+protector: 0.007416
+design: 0.007416
+function: 0.006745
+really: 0.006745
+dust: 0.006745
+sansa: 0.006745
+================ Global Topic 3 ==========================
+ear: 0.020195
+sound: 0.015154
+hear: 0.013894
+earbuds: 0.012003
+quality: 0.011373
+size: 0.009483
+noise: 0.009483
+fit: 0.009483
+use: 0.008853
+yes: 0.008223
+small: 0.008223
+sometimes: 0.008223
+end: 0.007593
+different: 0.007593
+quite: 0.007593
+fits: 0.006963
+sizes: 0.006333
+gels: 0.006333
+say: 0.006333
+tried: 0.006333
+================ Global Topic 4 ==========================
+phone: 0.053619
+samsung: 0.018272
+headset: 0.017132
+even: 0.015992
+see: 0.015992
+motorola: 0.011431
+hear: 0.010861
+speaker: 0.009720
+would: 0.009150
+car: 0.008580
+talking: 0.008580
+i560: 0.008010
+display: 0.008010
+volume: 0.008010
+bluetooth: 0.007440
+people: 0.007440
+blue: 0.006870
+holster: 0.006300
+audio: 0.005730
+light: 0.005730
+================ Global Topic 5 ==========================
+stereo: 0.016897
+phone: 0.013924
+headphones: 0.012933
+sound: 0.011942
+plug: 0.011942
+jack: 0.011942
+adapter: 0.010951
+stylus: 0.010951
+cord: 0.009960
+use: 0.009960
+replacement: 0.008969
+better: 0.008969
+makes: 0.007978
+headphone: 0.006987
+grade: 0.006987
+fit: 0.006987
+headsets: 0.006987
+quality: 0.005996
+8125: 0.005996
+work: 0.005996
+================ Global Topic 6 ==========================
+cable: 0.049781
+phone: 0.033631
+software: 0.021846
+usb: 0.017918
+computer: 0.016172
+driver: 0.013989
+work: 0.013553
+drivers: 0.011370
+product: 0.009188
+works: 0.008751
+would: 0.008315
+also: 0.007878
+worked: 0.007878
+data: 0.007442
+nokia: 0.007006
+sync: 0.007006
+fine: 0.006569
+transfer: 0.006569
+download: 0.006133
+came: 0.006133
+================ Global Topic 7 ==========================
+palm: 0.061430
+treo: 0.048085
+650: 0.020506
+680: 0.018727
+number: 0.008941
+bought: 0.008051
+use: 0.008051
+decided: 0.006272
+think: 0.006272
+today: 0.006272
+version: 0.006272
+market: 0.005382
+tmobile: 0.005382
+run: 0.005382
+time: 0.005382
+say: 0.005382
+ipod: 0.004493
+compatibility: 0.004493
+years: 0.004493
+smartphone: 0.004493
+================ Global Topic 8 ==========================
+service: 0.038683
+nextel: 0.036190
+phones: 0.016240
+phone: 0.013123
+customer: 0.012500
+new: 0.011876
+sprint: 0.011253
+tracfone: 0.009383
+motorola: 0.008759
+nothing: 0.008759
+could: 0.008136
+pay: 0.008136
+years: 0.007512
+would: 0.006889
+card: 0.006265
+considering: 0.006265
+number: 0.006265
+old: 0.006265
+network: 0.005642
+end: 0.005642
+================ Global Topic 9 ==========================
+battery: 0.086384
+phone: 0.020931
+time: 0.017295
+charge: 0.016841
+life: 0.015477
+new: 0.012295
+every: 0.010022
+charger: 0.009568
+batteries: 0.008659
+never: 0.008204
+original: 0.006841
+use: 0.006841
+would: 0.006386
+bought: 0.006386
+thing: 0.006386
+much: 0.006386
+like: 0.005932
+say: 0.005932
+first: 0.005932
+day: 0.005932
+================ Global Topic 10 ==========================
+headset: 0.018140
+problem: 0.014120
+volume: 0.011105
+use: 0.010100
+phone: 0.010100
+problems: 0.010100
+design: 0.009095
+ringtone: 0.008090
+ear: 0.008090
+rating: 0.007085
+recommend: 0.007085
+side: 0.007085
+soon: 0.007085
+couple: 0.007085
+constantly: 0.007085
+uses: 0.007085
+moto: 0.006080
+unit: 0.006080
+someone: 0.006080
+another: 0.006080
+================ Global Topic 11 ==========================
+ear: 0.027708
+like: 0.013873
+nokia: 0.013873
+compatible: 0.010799
+free: 0.009262
+call: 0.008493
+phone: 0.008493
+works: 0.008493
+see: 0.007725
+say: 0.007725
+good: 0.007725
+send: 0.006956
+tracfone: 0.006956
+thank: 0.006956
+bit: 0.006956
+friend: 0.006956
+used: 0.006187
+little: 0.006187
+different: 0.006187
+noticed: 0.005419
+================ Global Topic 12 ==========================
+card: 0.025368
+player: 0.023600
+music: 0.018886
+mp3: 0.017707
+phone: 0.017707
+memory: 0.017118
+media: 0.011225
+use: 0.010047
+windows: 0.010047
+songs: 0.009458
+play: 0.009458
+microsd: 0.008868
+radio: 0.007690
+display: 0.007101
+bluetooth: 0.006511
+however: 0.005922
+slot: 0.005333
+always: 0.005333
+file: 0.005333
+games: 0.005333
+================ Global Topic 13 ==========================
+case: 0.023494
+fit: 0.014894
+charger: 0.012548
+work: 0.011767
+car: 0.010985
+time: 0.010985
+item: 0.009421
+package: 0.009421
+shipped: 0.009421
+plastic: 0.008639
+items: 0.008639
+ordered: 0.008639
+tried: 0.007857
+even: 0.007857
+box: 0.007076
+first: 0.006294
+bought: 0.006294
+sent: 0.006294
+find: 0.006294
+give: 0.005512
+================ Global Topic 14 ==========================
+phone: 0.021615
+pretty: 0.014421
+ringtones: 0.011151
+cingular: 0.008535
+support: 0.007881
+nokia: 0.007881
+set: 0.007881
+year: 0.007227
+price: 0.007227
+screen: 0.007227
+upgrade: 0.007227
+works: 0.006573
+card: 0.006573
+virgin: 0.006573
+interface: 0.006573
+users: 0.005919
+user: 0.005919
+default: 0.005919
+handset: 0.005265
+buttons: 0.005265
+================ Global Topic 15 ==========================
+ear: 0.021839
+piece: 0.019223
+clip: 0.011377
+fone: 0.010505
+good: 0.008762
+buy: 0.008762
+logitech: 0.007890
+need: 0.007890
+belt: 0.007890
+product: 0.007018
+jabra: 0.007018
+headset: 0.006146
+fit: 0.006146
+unit: 0.006146
+holster: 0.006146
+please: 0.005274
+things: 0.005274
+sizes: 0.005274
+problem: 0.005274
+right: 0.005274
+================ Global Topic 16 ==========================
+case: 0.015366
+things: 0.012700
+pearl: 0.012033
+like: 0.011366
+take: 0.010700
+phone: 0.010700
+really: 0.010033
+pretty: 0.009366
+much: 0.009366
+thing: 0.008700
+perfect: 0.008033
+awesome: 0.007366
+treo: 0.007366
+care: 0.007366
+slightly: 0.006700
+big: 0.006700
+better: 0.006700
+swivel: 0.006700
+also: 0.006700
+however: 0.006700
+================ Global Topic 17 ==========================
+phone: 0.058066
+use: 0.018212
+good: 0.014188
+like: 0.013230
+camera: 0.012272
+features: 0.011123
+screen: 0.010548
+also: 0.010356
+easy: 0.009973
+still: 0.008440
+need: 0.008440
+great: 0.008249
+make: 0.007674
+many: 0.007482
+best: 0.007099
+phones: 0.006907
+pictures: 0.006716
+really: 0.006524
+far: 0.006141
+cell: 0.006141
+================ Global Topic 18 ==========================
+phone: 0.052544
+would: 0.016329
+back: 0.011109
+day: 0.010457
+work: 0.009152
+new: 0.008499
+call: 0.008499
+days: 0.008173
+minutes: 0.008173
+sim: 0.007847
+cingular: 0.007847
+called: 0.007847
+service: 0.007520
+could: 0.007520
+amazon: 0.007194
+calls: 0.006541
+card: 0.006541
+charger: 0.006541
+said: 0.006541
+working: 0.006215
+================ Global Topic 19 ==========================
+device: 0.025354
+windows: 0.018769
+blackberry: 0.012183
+email: 0.012183
+mobile: 0.010157
+even: 0.009650
+microsoft: 0.009650
+pda: 0.009144
+software: 0.009144
+user: 0.009144
+bluetooth: 0.008637
+wifi: 0.008130
+volume: 0.008130
+way: 0.008130
+keyboard: 0.008130
+outlook: 0.008130
+data: 0.007117
+key: 0.007117
+work: 0.006611
+alarm: 0.006104
+================ Global Topic 20 ==========================
+product: 0.030209
+time: 0.015584
+nice: 0.014670
+use: 0.012842
+would: 0.012842
+return: 0.011014
+received: 0.010100
+charge: 0.010100
+skin: 0.009186
+could: 0.008272
+feature: 0.008272
+item: 0.008272
+solid: 0.008272
+however: 0.008272
+amazoncom: 0.007358
+samsung: 0.007358
+end: 0.007358
+battery: 0.007358
+thick: 0.007358
+description: 0.007358
+================ Local 1 ================
+[u'would', u'phone', u'product', u'great', u'recommend', u'price', u'shipping', u'worth', u'months', u'well', u'highly', u'anyone', u'really', u'much', u'happy', u'like', u'bought', u'never', u'better', u'buy']
+================ Local 2 ================
+[u'phone', u'buy', u'money', u'great', u'service', u'another', u'product', u'different', u'amazon', u'price', u'use', u'pay', u'like', u'going', u'want', u'first', u'would', u'ringtones', u'good', u'time']
+================ Local 3 ================
+[u'phone', u'battery', u'charger', u'charge', u'phones', u'work', u'car', u'cell', u'use', u'motorola', u'life', u'bought', u'day', u'great', u'price', u'time', u'thing', u'back', u'new', u'good']
+================ Local 4 ================
+[u'phone', u'case', u'good', u'great', u'razr', u'cover', u'pink', u'color', u'motorola', u'looks', u'well', u'even', u'love', u'use', u'like', u'would', u'works', u'better', u'leather', u'quality']
+================ Local 5 ================
+[u'phone', u'good', u'great', u'use', u'mp3', u'camera', u'player', u'easy', u'headset', u'like', u'looking', u'product', u'features', u'want', u'really', u'best', u'works', u'reception', u'etc', u'make']
+================ Local 6 ================
+[u'phone', u'case', u'belt', u'clip', u'treo', u'easily', u'fits', u'pocket', u'cover', u'holster', u'fit', u'skin', u'great', u'use', u'easy', u'also', u'well', u'dropped', u'small', u'buttons']
+================ Local 7 ================
+[u'phone', u'sound', u'quality', u'call', u'battery', u'hear', u'volume', u'good', u'headset', u'end', u'people', u'also', u'life', u'would', u'calls', u'person', u'thing', u'reception', u'great', u'could']
+================ Local Topic 1 ==========================
+would: 0.027415
+phone: 0.025564
+product: 0.023343
+great: 0.021121
+recommend: 0.020011
+price: 0.016308
+shipping: 0.010015
+worth: 0.009644
+well: 0.009644
+months: 0.009644
+highly: 0.009274
+anyone: 0.009274
+really: 0.008904
+happy: 0.007793
+much: 0.007793
+like: 0.007793
+bought: 0.007793
+better: 0.007423
+never: 0.007423
+buy: 0.007053
+================ Local Topic 2 ==========================
+phone: 0.032295
+buy: 0.024390
+money: 0.016815
+great: 0.013191
+service: 0.010227
+another: 0.009568
+product: 0.009239
+amazon: 0.008910
+different: 0.008910
+use: 0.007921
+price: 0.007921
+pay: 0.007592
+like: 0.007592
+going: 0.007263
+want: 0.006933
+would: 0.006604
+first: 0.006604
+ringtones: 0.006275
+good: 0.006275
+need: 0.005945
+================ Local Topic 3 ==========================
+phone: 0.046654
+battery: 0.021602
+charger: 0.020002
+charge: 0.012007
+phones: 0.010941
+work: 0.009608
+car: 0.009342
+cell: 0.009075
+use: 0.009075
+motorola: 0.008275
+life: 0.008009
+bought: 0.007742
+day: 0.007476
+great: 0.007209
+price: 0.007209
+time: 0.006943
+thing: 0.006943
+back: 0.006943
+last: 0.006676
+new: 0.006676
+================ Local Topic 4 ==========================
+phone: 0.032946
+case: 0.021858
+good: 0.017490
+great: 0.012449
+razr: 0.011441
+pink: 0.010433
+cover: 0.010433
+color: 0.010097
+looks: 0.009425
+motorola: 0.009425
+well: 0.009089
+even: 0.008753
+love: 0.008417
+use: 0.008081
+would: 0.008081
+like: 0.008081
+works: 0.007745
+better: 0.007409
+leather: 0.007073
+quality: 0.007073
+================ Local Topic 5 ==========================
+phone: 0.046389
+good: 0.023380
+great: 0.020194
+use: 0.017363
+mp3: 0.013823
+camera: 0.012761
+player: 0.011699
+easy: 0.011345
+like: 0.011345
+headset: 0.011345
+looking: 0.009575
+features: 0.008513
+product: 0.008513
+want: 0.008159
+really: 0.008159
+works: 0.007805
+best: 0.007805
+reception: 0.007097
+nice: 0.006743
+make: 0.006743
+================ Local Topic 6 ==========================
+phone: 0.040339
+case: 0.032682
+belt: 0.019155
+clip: 0.018389
+treo: 0.017368
+easily: 0.010477
+fits: 0.009711
+pocket: 0.009456
+cover: 0.009456
+holster: 0.008180
+fit: 0.007414
+skin: 0.007414
+use: 0.007159
+great: 0.007159
+also: 0.006904
+easy: 0.006904
+dropped: 0.006649
+well: 0.006649
+small: 0.006393
+buttons: 0.006393
+================ Local Topic 7 ==========================
+phone: 0.029481
+sound: 0.019045
+quality: 0.017510
+call: 0.015055
+battery: 0.013827
+hear: 0.012293
+volume: 0.011372
+good: 0.011065
+headset: 0.009530
+end: 0.008916
+also: 0.008303
+people: 0.008303
+life: 0.007382
+would: 0.007382
+calls: 0.007075
+person: 0.006768
+thing: 0.006768
+reception: 0.006461
+well: 0.005847
+even: 0.005847
+
+Process finished with exit code 0
